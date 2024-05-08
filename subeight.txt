@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/location/normal/NL
+https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/location/normal/FR
+https://raw.githubusercontent.com/yebekhe/TVC/main/lite/subscriptions/xray/normal/mix
