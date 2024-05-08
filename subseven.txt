@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/location/normal/FI
+https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/location/normal/SE
+https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/location/normal/GB
+https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/location/normal/JP
